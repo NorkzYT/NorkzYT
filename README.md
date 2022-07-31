@@ -41,7 +41,7 @@
 
 
 **📫 How to Reach me:**
-align="left">
+
 
 
 <div align="center">
