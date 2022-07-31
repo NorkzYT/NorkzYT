@@ -16,48 +16,29 @@
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Square+Peg&size=50&color=019EFF&center=true&vCenter=true&width=500&height=60&lines=Hey%2C+I'm+Richard+Lora;A+Polymath+Technologist)](https://git.io/typing-svg)
 
+![Metrics](/github-metrics.svg)
+
+[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
+[<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">](https://www.youtube.com/watch?v=PqXPW0oBKgg)
+[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/medias.svg?p">](#)
+<img align="right" width="390" height="31" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg"> 
+
+[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/sponsors.svg">](https://github.com/sponsors/lowlighter)
+[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg">](#)
+
+<img width="100%" height="30" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg"> 
+
+
 
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 ![Norkz's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=NorkzYT&hide_border=true&theme=redical)
 
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Norkz's github stats](https://github-readme-stats.vercel.app/api?username=NorkzYT&show_icons=true&theme=radical&include_all_commits=true) | ![Norkz's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NorkzYT&theme=radical&layout=compact) |
 
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NorkzYT"></img>
-</p>
-
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-
-<!--   skyline 
-<a href="https://skyline.github.com/NorkzYT/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
-
-
-
-**📫 How to Reach me:**
-
-
-
-<div align="center">
-<summary>:trophy: Github Profile Trophy</summary>
-</div>
-
-<p align="left"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NorkzYT" alt="NorkzYT" /></a>
-</p>
 
 
 #### Thanks for visiting :heart:
-
-
-[MIT](LICENSE)
- </p>
 
 ---
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork, and use it.*
@@ -66,6 +47,11 @@ Would you like to meet me?
 
 If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Chat about proposals and ideas - but make sure to describe the agenda.
 
+[<img align="right" alt="🦑" src="https://user-images.githubusercontent.com/22963968/119890439-1ff29f00-bf38-11eb-8515-d0a9c3c8a6b6.png">](#)
 
+<!-- Until that day: https://user-images.githubusercontent.com/22963968/159836902-a7553777-f1e2-49ed-90fc-9721322b3f44.png -->
+<!-- The betrayer: https://user-images.githubusercontent.com/22963968/155458995-e4c24fff-d667-48cd-a1ce-1f66cd233a14.png -->
+<!-- The world ender: https://user-images.githubusercontent.com/22963968/130322172-4e4996cd-eb3d-4013-9fc2-47e573413310.png -->
+<!-- Farewell Miura: https://user-images.githubusercontent.com/22963968/119890439-1ff29f00-bf38-11eb-8515-d0a9c3c8a6b6.png -->
+<!-- First steps with JavaScript: https://user-images.githubusercontent.com/22963968/114021347-e3c48b80-9870-11eb-8bc8-998bf39b4d0d.png -->
 
-![](assets/Bottom_down.svg)
