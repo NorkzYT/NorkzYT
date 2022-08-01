@@ -17,7 +17,7 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: achievements.svg
+          filename: metrics/achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           output_action: gist
@@ -30,7 +30,7 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: sponsors.svg
+          filename: metrics/sponsors.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           output_action: gist
@@ -42,7 +42,7 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: general.svg
+          filename: metrics/general.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header
           base_indepth: yes
