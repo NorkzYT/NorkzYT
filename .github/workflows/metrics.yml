@@ -5,14 +5,13 @@
 name: Metrics
 on:
   # 🌏 Think about the planet! No need to update stats too frequently
-  schedule: [{cron: "0 16 * * *"}]
+  schedule: [{ cron: "0 16 * * *" }]
   # 💡 The following line lets you run workflow manually from the action tab!
   workflow_dispatch:
 jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-
       - name: 🦑 Achievements
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -25,6 +24,9 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_fortune: yes
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
 
       - name: 🦑 General
         if: ${{ success() || failure() }}
