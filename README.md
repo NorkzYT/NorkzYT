@@ -1,6 +1,4 @@
-![](assets/Bottom_up.svg)
-
-<!--   my-icons -->
+<!-- my-icons -->
 <p align="center">
     <a href="https://github.com/NorkzYT/NorkzYT"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/NorkzYT/NorkzYT/graphs/contributors"><img src="https://img.shields.io/github/contributors/NorkzYT/NorkzYT?color=blue"></a>
@@ -9,26 +7,27 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=NorkzYT.NorkzYT" alt="visitors"/>   
 </p>
 
-<!--   my-header-img -->
+<!-- my-header-img -->
 ![](./src/header_.png)
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
-<!--   my-ticker -->    
+<!-- my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Square+Peg&size=50&color=019EFF&center=true&vCenter=true&width=500&height=60&lines=Hey%2C+I'm+Richard+Lora;A+Polymath+Technologist)](https://git.io/typing-svg)
 
-![Metrics](/github-metrics.svg)
 
+
+<!-- My Metrics -->    
+[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/NorkzYT/2a261d78c0bcd2b24b268c04ca2fb6a5/raw/7d167fa3df9b3b4cef836ed242754d72eb29cd0f/general.svg">](#)
+[<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:NorkzYT?theme=rule34">](https://youtu.be/9vZUbyM5PxY)
 <!--
-[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
-[<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">](https://www.youtube.com/watch?v=PqXPW0oBKgg)
 [<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/medias.svg?p">](#)
 <img align="right" width="390" height="31" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg"> 
-
 [<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/sponsors.svg">](https://github.com/sponsors/lowlighter)
-[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg">](#)
+-->
+[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/NorkzYT/2a261d78c0bcd2b24b268c04ca2fb6a5/raw/7d167fa3df9b3b4cef836ed242754d72eb29cd0f/achievements.svg">](#)
 
 <img width="100%" height="30" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg"> 
--->
+
 
 
 
