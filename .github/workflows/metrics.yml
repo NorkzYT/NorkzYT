@@ -17,7 +17,7 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics/achievements.svg
+          filename: achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           output_action: gist
@@ -26,23 +26,11 @@ jobs:
           plugin_achievements_display: compact
           plugin_fortune: yes
 
-      - name: 🦑 Sponsors
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/sponsors.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
-          plugin_sponsors: yes
-          plugin_sponsors_past: yes
-
       - name: 🦑 General
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics/general.svg
+          filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header
           base_indepth: yes
