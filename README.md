@@ -1,9 +1,9 @@
 <!-- my-icons -->
 <p align="center">
-    <a target="_blank" href="https://github.com/NorkzYT/NorkzYT"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a target="_blank" href="https://github.com/NorkzYT/NorkzYT/graphs/contributors"><img src="https://img.shields.io/github/contributors/NorkzYT/NorkzYT?color=blue"></a>
-    <a target="_blank" href="https://github.com/NorkzYT/NorkzYT/stargazers"><img src="https://img.shields.io/github/stars/NorkzYT/NorkzYT.svg?logo=github"></a>
-    <a target="_blank" href="https://github.com/NorkzYT/NorkzYT/network/members"><img src="https://img.shields.io/github/forks/NorkzYT/NorkzYT.svg?color=blue&logo=github"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/NorkzYT/NorkzYT"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/NorkzYT/NorkzYT/graphs/contributors"><img src="https://img.shields.io/github/contributors/NorkzYT/NorkzYT?color=blue"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/NorkzYT/NorkzYT/stargazers"><img src="https://img.shields.io/github/stars/NorkzYT/NorkzYT.svg?logo=github"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/NorkzYT/NorkzYT/network/members"><img src="https://img.shields.io/github/forks/NorkzYT/NorkzYT.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=NorkzYT.NorkzYT" alt="visitors"/>   
 </p>
 
@@ -31,163 +31,163 @@
 
 <h2>Skills</h2>
 <p align="center">
-    <a target="_blank" href="https://nextjs.org/">
+    <a target="_blank" rel="noopener noreferrer" href="https://nextjs.org/">
     <img src=
     "https://skillicons.dev/icons?i=nextjs" />
     </a>
-    <a target="_blank" href="https://vercel.com/">
+    <a target="_blank" rel="noopener noreferrer" href="https://vercel.com/">
     <img src=
     "https://skillicons.dev/icons?i=vercel" />
     </a>
-    <a target="_blank" href="https://reactjs.org/">
+    <a target="_blank" rel="noopener noreferrer" href="https://reactjs.org/">
     <img src=
     "https://skillicons.dev/icons?i=react" />
     </a>
-    <a target="_blank" href="https://tailwindcss.com/">
+    <a target="_blank" rel="noopener noreferrer" href="https://tailwindcss.com/">
     <img src=
     "https://skillicons.dev/icons?i=tailwind" />
     </a>
-    <a target="_blank" href="https://www.w3schools.com/html/">
+    <a target="_blank" rel="noopener noreferrer" href="https://www.w3schools.com/html/">
     <img src=
     "https://skillicons.dev/icons?i=html" />
     </a>
-    <a target="_blank" href="https://www.w3schools.com/css/">
+    <a target="_blank" rel="noopener noreferrer" href="https://www.w3schools.com/css/">
     <img src=
     "https://skillicons.dev/icons?i=css" />
     </a>
-    <a target="_blank" href="https://www.javascript.com/">
+    <a target="_blank" rel="noopener noreferrer" href="https://www.javascript.com/">
     <img src=
     "https://skillicons.dev/icons?i=js" />
     </a>
-    <a target="_blank" href="https://www.typescriptlang.org/">
+    <a target="_blank" rel="noopener noreferrer" href="https://www.typescriptlang.org/">
     <img src=
     "https://skillicons.dev/icons?i=ts" />
     </a>
-    <a target="_blank" href="https://getbootstrap.com/">
+    <a target="_blank" rel="noopener noreferrer" href="https://getbootstrap.com/">
     <img src=
     "https://skillicons.dev/icons?i=bootstrap" />
     </a>
-    <a target="_blank" href="https://flask.palletsprojects.com/">
+    <a target="_blank" rel="noopener noreferrer" href="https://flask.palletsprojects.com/">
     <img src=
     "https://skillicons.dev/icons?i=flask" />
     </a>
-    <a target="_blank" href="https://firebase.google.com/">
+    <a target="_blank" rel="noopener noreferrer" href="https://firebase.google.com/">
     <img src=
     "https://skillicons.dev/icons?i=firebase" />
     </a>
-    <a target="_blank" href="https://www.markdownguide.org/">
+    <a target="_blank" rel="noopener noreferrer" href="https://www.markdownguide.org/">
     <img src=
     "https://skillicons.dev/icons?i=md" />
     </a>
-    <a target="_blank" href="https://docs.microsoft.com/en-us/powershell/">
+    <a target="_blank" rel="noopener noreferrer" href="https://docs.microsoft.com/en-us/powershell/">
     <img src=
     "https://skillicons.dev/icons?i=powershell" />
     </a>
     <br>
     <br>
-    <a target="_blank" href="https://www.gnu.org/software/bash/">
+    <a target="_blank" rel="noopener noreferrer" href="https://www.gnu.org/software/bash/">
     <img src=
     "https://skillicons.dev/icons?i=bash" />
     </a>
-    <a target="_blank" href="https://www.linux.org/">
+    <a target="_blank" rel="noopener noreferrer" href="https://www.linux.org/">
     <img src=
     "https://skillicons.dev/icons?i=linux" />
     </a>
-    <a target="_blank" href="https://www.raspberrypi.com/">
+    <a target="_blank" rel="noopener noreferrer" href="https://www.raspberrypi.com/">
     <img src=
     "https://skillicons.dev/icons?i=raspberrypi" />
     </a>
-    <a target="_blank" href="https://redis.io/">
+    <a target="_blank" rel="noopener noreferrer" href="https://redis.io/">
     <img src=
     "https://skillicons.dev/icons?i=redis" />
     </a>
-    <a target="_blank" href="https://grafana.com/">
+    <a target="_blank" rel="noopener noreferrer" href="https://grafana.com/">
     <img src=
     "https://skillicons.dev/icons?i=grafana" />
     </a>
-    <a target="_blank" href="https://prometheus.io/">
+    <a target="_blank" rel="noopener noreferrer" href="https://prometheus.io/">
     <img src=
     "https://skillicons.dev/icons?i=prometheus" />
     </a>
-    <a target="_blank" href="https://code.visualstudio.com/">
+    <a target="_blank" rel="noopener noreferrer" href="https://code.visualstudio.com/">
     <img src=
     "https://skillicons.dev/icons?i=vscode" />
     </a>
-    <a target="_blank" href="https://git-scm.com/">
+    <a target="_blank" rel="noopener noreferrer" href="https://git-scm.com/">
     <img src=
     "https://skillicons.dev/icons?i=git" />
     </a>
-    <a target="_blank" href="https://discord.com/">
+    <a target="_blank" rel="noopener noreferrer" href="https://discord.com/">
     <img src=
     "https://skillicons.dev/icons?i=discord" />
     </a>
-    <a target="_blank" href="https://www.python.org/">
+    <a target="_blank" rel="noopener noreferrer" href="https://www.python.org/">
     <img src=
     "https://skillicons.dev/icons?i=python" />
     </a>
-    <a target="_blank" href="https://www.w3schools.com/c/c_intro.php">
+    <a target="_blank" rel="noopener noreferrer" href="https://www.w3schools.com/c/c_intro.php">
     <img src=
     "https://skillicons.dev/icons?i=c" />
     </a>
-    <a target="_blank" href="https://www.w3schools.com/cpp/default.asp">
+    <a target="_blank" rel="noopener noreferrer" href="https://www.w3schools.com/cpp/default.asp">
     <img src=
     "https://skillicons.dev/icons?i=cpp" />
     </a>
-    <a target="_blank" href="https://www.sqlite.org/index.html">
+    <a target="_blank" rel="noopener noreferrer" href="https://www.sqlite.org/index.html">
     <img src=
     "https://skillicons.dev/icons?i=sqlite" />
     </a>
     <br>
     <br>
-    <a target="_blank" href="https://www.mysql.com/">
+    <a target="_blank" rel="noopener noreferrer" href="https://www.mysql.com/">
     <img src=
     "https://skillicons.dev/icons?i=mysql" />
     </a>
-    <a target="_blank" href="https://www.postgresql.org/">
+    <a target="_blank" rel="noopener noreferrer" href="https://www.postgresql.org/">
     <img src=
     "https://skillicons.dev/icons?i=postgres" />
     </a>
-    <a target="_blank" href="https://www.mongodb.com/">
+    <a target="_blank" rel="noopener noreferrer" href="https://www.mongodb.com/">
     <img src=
     "https://skillicons.dev/icons?i=mongodb" />
     </a>
-    <a target="_blank" href="https://github.com/">
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/">
     <img src=
     "https://skillicons.dev/icons?i=github" />
     </a>
-    <a target="_blank" href="https://about.gitlab.com/">
+    <a target="_blank" rel="noopener noreferrer" href="https://about.gitlab.com/">
     <img src=
     "https://skillicons.dev/icons?i=gitlab" />
     </a>
-    <a target="_blank" href="https://stackoverflow.com/">
+    <a target="_blank" rel="noopener noreferrer" href="https://stackoverflow.com/">
     <img src=
     "https://skillicons.dev/icons?i=stackoverflow" />
     </a>
-    <a target="_blank" href="https://kubernetes.io/">
+    <a target="_blank" rel="noopener noreferrer" href="https://kubernetes.io/">
     <img src=
     "https://skillicons.dev/icons?i=kubernetes" />
     </a>
-    <a target="_blank" href="https://www.docker.com/">
+    <a target="_blank" rel="noopener noreferrer" href="https://www.docker.com/">
     <img src=
     "https://skillicons.dev/icons?i=docker" />
     </a>
-    <a target="_blank" href="https://www.cloudflare.com/">
+    <a target="_blank" rel="noopener noreferrer" href="https://www.cloudflare.com/">
     <img src=
     "https://skillicons.dev/icons?i=cloudflare" />
     </a>
-    <a target="_blank" href="https://www.blender.org/">
+    <a target="_blank" rel="noopener noreferrer" href="https://www.blender.org/">
     <img src=
     "https://skillicons.dev/icons?i=blender" />
     </a>
-    <a target="_blank" href="https://www.adobe.com/products/aftereffects.html">
+    <a target="_blank" rel="noopener noreferrer" href="https://www.adobe.com/products/aftereffects.html">
     <img src=
     "https://skillicons.dev/icons?i=ae" />
     </a>
-    <a target="_blank" href="https://www.adobe.com/products/photoshop.html">
+    <a target="_blank" rel="noopener noreferrer" href="https://www.adobe.com/products/photoshop.html">
     <img src=
     "https://skillicons.dev/icons?i=ps" />
     </a>
-    <a target="_blank" href="https://www.adobe.com/products/premiere.html">
+    <a target="_blank" rel="noopener noreferrer" href="https://www.adobe.com/products/premiere.html">
     <img src=
     "https://skillicons.dev/icons?i=pr" />
     </a>
@@ -196,15 +196,15 @@
 
 <h2>Contact Options</h2>
 <p>
-    <a target="_blank" href="https://www.discordapp.com/users/282100214024896522">
+    <a target="_blank" rel="noopener noreferrer" href="https://www.discordapp.com/users/282100214024896522">
     <img src=
     "https://skillicons.dev/icons?i=discord" />
     </a>
-    <a target="_blank" href="mailto:business@pcscorp.dev">
+    <a target="_blank" rel="noopener noreferrer" href="mailto:business@pcscorp.dev">
     <img  width="55" height="43" src=
     "https://imgur.com/tLzcLoU.png" />
     </a>
-    <a target="_blank" href="https://twitter.com/PolymathNorkz">
+    <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/PolymathNorkz">
     <img src=
     "https://skillicons.dev/icons?i=twitter" />
     </a>
