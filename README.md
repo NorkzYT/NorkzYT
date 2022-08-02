@@ -209,7 +209,7 @@
 ---
 Would you like to meet me?
 
-If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Chat about proposals and ideas - but make sure to describe the agenda.
+If you want to contribute to any of my repositories, feel free to submit PRs, issues and discord/email me. Chat about proposals and ideas - make sure to describe the agenda.
 
 [<img align="right" alt="🦑" src="https://user-images.githubusercontent.com/22963968/119890439-1ff29f00-bf38-11eb-8515-d0a9c3c8a6b6.png">](#)
 
