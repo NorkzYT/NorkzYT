@@ -192,21 +192,21 @@
 </p>
 <br>
 
-<br>
-<h2>Social Networks</h2>
-
-
-[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3]
-
-[1.2]: https://s4.uupload.ir/files/twitter_prkb.png
-[2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
-[3.2]: https://s4.uupload.ir/files/instagram_6djz.png
-
-[1]: https://twitter.com/PolymathNorkz
-[2]: 
-[3]:<a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20...">
-
-
+<h2>Contact Options</h2>
+<p>
+    <a href="https://www.discordapp.com/users/282100214024896522">
+    <img src=
+    "https://skillicons.dev/icons?i=discord" />
+    </a>
+    <a href="mailto:business@pcscorp.dev">
+    <img  width="55" height="43" src=
+    "https://imgur.com/tLzcLoU.png" />
+    </a>
+    <a href="https://twitter.com/PolymathNorkz">
+    <img src=
+    "https://skillicons.dev/icons?i=twitter" />
+    </a>
+</p>
 
 <!--   GitHub stats graph -->
 <h2> 📈 GitHub Activity Graph:</h2>
