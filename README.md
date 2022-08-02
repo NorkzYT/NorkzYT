@@ -9,7 +9,6 @@
 
 <!-- my-header-img -->
 ![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 <!-- my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Square+Peg&size=50&color=019EFF&center=true&vCenter=true&width=500&height=60&lines=Hey%2C+I'm+Richard+Lora;A+Polymath+Technologist)](https://git.io/typing-svg)
