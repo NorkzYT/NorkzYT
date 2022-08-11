@@ -19,7 +19,7 @@
 
 
 <!-- My Metrics -->    
-[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/NorkzYT/general.svg">](#)
+[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/NorkzYT/2a261d78c0bcd2b24b268c04ca2fb6a5/raw/48a3fcd13cd2591f55069cf8c5d0efce5c92dcc7/general.svg">](#)
 [<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:NorkzYT?theme=rule34">](https://youtu.be/9vZUbyM5PxY)
 
 <!--
