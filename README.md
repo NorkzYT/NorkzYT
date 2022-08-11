@@ -28,7 +28,7 @@
 [<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/sponsors.svg">](https://github.com/sponsors/lowlighter)
 -->
 
-[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/NorkzYT/2a261d78c0bcd2b24b268c04ca2fb6a5/raw/6761f7c166a7e2cb4f7dcba88ed7a206981418c4/achievements.svg">](#)
+[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/NorkzYT/2a261d78c0bcd2b24b268c04ca2fb6a5/raw/b2f5967feaed1083c3e35abeec35efcb97a315a7/achievements.svg">](#)
 
 <img width="100%" height="30" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg"> 
 
