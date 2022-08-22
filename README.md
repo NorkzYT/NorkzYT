@@ -87,12 +87,12 @@
     <img src=
     "https://skillicons.dev/icons?i=powershell" />
     </a>
-    <br>
-    <br>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer"> 
     <img src=
     "https://skillicons.dev/icons?i=bash" />
     </a>
+    <br>
+    <br>
     <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
     <img src=
     "https://skillicons.dev/icons?i=linux" />
@@ -129,6 +129,10 @@
     <img src=
     "https://skillicons.dev/icons?i=python" />
     </a>
+    <a href="https://www.selenium.dev/" target="_blank" rel="noopener noreferrer"> 
+    <img src=
+    "https://skillicons.dev/icons?i=selenium" />
+    </a>
     <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noopener noreferrer">
     <img src=
     "https://skillicons.dev/icons?i=c" />
@@ -141,12 +145,12 @@
     <img src=
     "https://skillicons.dev/icons?i=sqlite" />
     </a>
-    <br> 
-    <br>
     <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
     <img src=
     "https://skillicons.dev/icons?i=mysql" />
     </a>
+    <br> 
+    <br>
     <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
     <img src=
     "https://skillicons.dev/icons?i=postgres" />
@@ -174,6 +178,14 @@
     <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
     <img src=
     "https://skillicons.dev/icons?i=docker" />
+    </a>
+    <a href="https://bitwarden.com/" target="_blank" rel="noopener noreferrer">
+    <img src=
+    "https://www.vectorlogo.zone/logos/bitwarden/bitwarden-icon.svg" width="50" height="46"/>
+    </a>
+    <a href="https://grafana.com" target="_blank" rel="noopener noreferrer">
+    <img src=
+    "https://skillicons.dev/icons?i=grafana"/>
     </a>
     <a href="https://www.cloudflare.com/" target="_blank" rel="noopener noreferrer">
     <img src=
