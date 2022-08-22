@@ -204,13 +204,17 @@
     <img src=
     "https://skillicons.dev/icons?i=discord" />
     </a>
-    <a href="mailto:business@pcscorp.dev" target="_blank" rel="noopener noreferrer">
+    <a href="mailto:richard@pcscorp.dev" target="_blank" rel="noopener noreferrer">
     <img  width="55" height="43" src=
     "https://imgur.com/tLzcLoU.png" />
     </a>
     <a href="https://twitter.com/PolymathNorkz" target="_blank" rel="noopener noreferrer">
     <img src=
     "https://skillicons.dev/icons?i=twitter" />
+    </a>
+    <a href="https://www.linkedin.com/in/richard-lora-523589247" target="_blank" rel="noopener noreferrer">
+    <img src=
+    "https://skillicons.dev/icons?i=linkedin" />
     </a>
 </p>
 
