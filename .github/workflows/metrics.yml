@@ -19,8 +19,9 @@ jobs:
           filename: achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
+          output_action: commit
+          committer_branch: metrics-renders
+          committer_message: "chore: update metrics"
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_fortune: yes
@@ -37,8 +38,9 @@ jobs:
           base: header
           base_indepth: yes
           config_order: base.header, isocalendar, languages, notable, discussions, topics
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
+          output_action: commit
+          committer_branch: metrics-renders
+          committer_message: "chore: update metrics"
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_languages_ignored: tex, less, makefile, qmake, lex, cmake, gnuplot, scala, c, c++, ejs
