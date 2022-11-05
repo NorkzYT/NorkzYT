@@ -51,6 +51,10 @@
     <img src=
     "https://skillicons.dev/icons?i=tailwind" />
     </a>
+    <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
+    <img src=
+    "https://skillicons.dev/icons?i=nodejs" />
+    </a>
     <a href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer">
     <img src=
     "https://skillicons.dev/icons?i=html" />
@@ -59,6 +63,14 @@
     <img src=
     "https://skillicons.dev/icons?i=css" />
     </a>
+    <a href="https://sass-lang.com/" target="_blank" rel="noopener noreferrer">
+    <img src=
+    "https://skillicons.dev/icons?i=sass" />
+    </a>
+    <a href="https://emotion.sh/" target="_blank" rel="noopener noreferrer">
+    <img src=
+    "https://skillicons.dev/icons?i=emotion" />
+    </a>
     <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
     <img src=
     "https://skillicons.dev/icons?i=js" />
@@ -66,6 +78,10 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
     <img src=
     "https://skillicons.dev/icons?i=ts" />
+    </a>
+    <a href="https://www.prisma.io/" target="_blank" rel="noopener noreferrer">
+    <img src=
+    "https://skillicons.dev/icons?i=prisma" />
     </a>
     <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
     <img src=
@@ -87,31 +103,39 @@
     <img src=
     "https://skillicons.dev/icons?i=powershell" />
     </a>
+    <br>
+    <br>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer"> 
     <img src=
     "https://skillicons.dev/icons?i=bash" />
     </a>
-    <br>
-    <br>
     <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
     <img src=
     "https://skillicons.dev/icons?i=linux" />
+    </a>
+    <a href="https://www.ansible.com/" target="_blank" rel="noopener noreferrer">
+    <img src=
+    "https://skillicons.dev/icons?i=ansible" />
     </a>
     <a href="https://www.raspberrypi.com/" target="_blank" rel="noopener noreferrer">
     <img src=
     "https://skillicons.dev/icons?i=raspberrypi" />
     </a>
+    <a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer">
+    <img src=
+    "https://skillicons.dev/icons?i=gcp" />
+    </a>
     <a href="https://redis.io/" target="_blank" rel="noopener noreferrer">
     <img src=
     "https://skillicons.dev/icons?i=redis" />
     </a>
-    <a href="https://grafana.com/" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
     <img src=
-    "https://skillicons.dev/icons?i=grafana" />
+    "https://skillicons.dev/icons?i=figma" />
     </a>
-    <a href="https://prometheus.io/" target="_blank" rel="noopener noreferrer">
+    <a href="https://supabase.com/" target="_blank" rel="noopener noreferrer">
     <img src=
-    "https://skillicons.dev/icons?i=prometheus" />
+    "https://skillicons.dev/icons?i=supabase" />
     </a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
     <img src=
@@ -163,6 +187,10 @@
     <img src=
     "https://skillicons.dev/icons?i=github" />
     </a>
+    <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer">
+    <img src=
+    "https://skillicons.dev/icons?i=githubactions" />
+    </a>
     <a href="https://about.gitlab.com/" target="_blank" rel="noopener noreferrer">
     <img src=
     "https://skillicons.dev/icons?i=gitlab" />
@@ -183,9 +211,17 @@
     <img src=
     "https://www.vectorlogo.zone/logos/bitwarden/bitwarden-icon.svg" width="50" height="46"/>
     </a>
-    <a href="https://grafana.com" target="_blank" rel="noopener noreferrer">
+    <a href="https://grafana.com/" target="_blank" rel="noopener noreferrer">
     <img src=
-    "https://skillicons.dev/icons?i=grafana"/>
+    "https://skillicons.dev/icons?i=grafana" />
+    </a>
+    <a href="https://prometheus.io/" target="_blank" rel="noopener noreferrer">
+    <img src=
+    "https://skillicons.dev/icons?i=prometheus" />
+    </a>
+    <a href="https://graphql.org/" target="_blank" rel="noopener noreferrer">
+    <img src=
+    "https://skillicons.dev/icons?i=graphql" />
     </a>
     <a href="https://www.cloudflare.com/" target="_blank" rel="noopener noreferrer">
     <img src=
