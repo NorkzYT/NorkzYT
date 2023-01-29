@@ -47,6 +47,10 @@
     <img src=
     "https://skillicons.dev/icons?i=react" />
     </a>
+    <a href="https://mui.com/" target="_blank" rel="noopener noreferrer">
+    <img src=
+    "https://skillicons.dev/icons?i=materialui" />
+    </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
     <img src=
     "https://skillicons.dev/icons?i=tailwind" />
@@ -70,6 +74,10 @@
     <a href="https://emotion.sh/" target="_blank" rel="noopener noreferrer">
     <img src=
     "https://skillicons.dev/icons?i=emotion" />
+    </a>
+    <a href="https://www.styled-components.com/" target="_blank" rel="noopener noreferrer">
+    <img src=
+    "https://skillicons.dev/icons?i=styledcomponents" />
     </a>
     <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
     <img src=
@@ -149,6 +157,10 @@
     <img src=
     "https://skillicons.dev/icons?i=discord" />
     </a>
+    <a href="https://pptr.dev/" target="_blank" rel="noopener noreferrer">
+    <img src=
+    "https://skillicons.dev/icons?i=bots" />
+    </a>
     <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
     <img src=
     "https://skillicons.dev/icons?i=python" />
@@ -207,6 +219,10 @@
     <img src=
     "https://skillicons.dev/icons?i=docker" />
     </a>
+    <a href="https://www.nginx.com/" target="_blank" rel="noopener noreferrer">
+    <img src=
+    "https://skillicons.dev/icons?i=nginx" />
+    </a>
     <a href="https://bitwarden.com/" target="_blank" rel="noopener noreferrer">
     <img src=
     "https://www.vectorlogo.zone/logos/bitwarden/bitwarden-icon.svg" width="50" height="46"/>
@@ -226,6 +242,10 @@
     <a href="https://www.cloudflare.com/" target="_blank" rel="noopener noreferrer">
     <img src=
     "https://skillicons.dev/icons?i=cloudflare" />
+    </a>
+    <a href="https://workers.cloudflare.com/" target="_blank" rel="noopener noreferrer">
+    <img src=
+    "https://skillicons.dev/icons?i=workers" />
     </a>
     <a href="https://www.blender.org/" target="_blank" rel="noopener noreferrer">
     <img src=
