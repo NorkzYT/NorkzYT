@@ -36,7 +36,7 @@
 <details>
   <summary>Click here to see my Wakatime stats</summary>
   <br />
-  <a href="https://wakatime.com/@zekro"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=zekro&theme=tokyonight&layout=compact" /></a>
+  <a href="https://wakatime.com/@norkz"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=norkz&theme=tokyonight&layout=compact" /></a>
 </details>
 
 
