@@ -310,9 +310,9 @@
 </p>
 
 <!--   GitHub stats graph -->
-<h2> 📈 GitHub Activity Graph:</h2>
+<!-- <h2> 📈 GitHub Activity Graph:</h2> -->
 
-![Norkz's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=NorkzYT&hide_border=true&theme=redical)
+<!--  ![Norkz's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=NorkzYT&hide_border=true&theme=redical) -->
 
 
 
