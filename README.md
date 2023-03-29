@@ -22,6 +22,7 @@
 [<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/NorkzYT/NorkzYT/metrics-renders/general.svg">](#)
 [<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:NorkzYT?theme=rule34">](https://youtu.be/9vZUbyM5PxY)
 
+
 <!--
 [<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/medias.svg?p">](#)
 <img align="right" width="390" height="31" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg"> 
@@ -31,6 +32,12 @@
 [<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/NorkzYT/NorkzYT/metrics-renders/achievements.svg">](#)
 
 <img width="100%" height="30" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg"> 
+
+<details>
+  <summary>Click here to see my Wakatime stats</summary>
+  <br />
+  <a href="https://wakatime.com/@zekro"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=zekro&theme=tokyonight&layout=compact" /></a>
+</details>
 
 
 <h2>Skills</h2>
@@ -81,11 +88,19 @@
     </a>
     <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
     <img src=
+    "https://skillicons.dev/icons?i=jest" />
+    </a>
+    <a href="https://jestjs.io/" target="_blank" rel="noopener noreferrer">
+    <img src=
     "https://skillicons.dev/icons?i=js" />
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
     <img src=
-    "https://skillicons.dev/icons?i=ts" />
+    "https://skillicons.dev/icons?i=ts" />	
+    </a>
+    <a href="https://regex101.com/" target="_blank" rel="noopener noreferrer">
+    <img src=
+    "https://skillicons.dev/icons?i=regex" />	
     </a>
     <a href="https://www.prisma.io/" target="_blank" rel="noopener noreferrer">
     <img src=
@@ -98,6 +113,10 @@
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer">
     <img src=
     "https://skillicons.dev/icons?i=flask" />
+    </a>
+    <a href="https://expressjs.com" target="_blank" rel="noopener noreferrer">
+    <img src=
+    "https://skillicons.dev/icons?i=express" />	
     </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
     <img src=
@@ -168,6 +187,10 @@
     <a href="https://www.selenium.dev/" target="_blank" rel="noopener noreferrer"> 
     <img src=
     "https://skillicons.dev/icons?i=selenium" />
+    </a>
+    <a href="https://www.djangoproject.com" target="_blank" rel="noopener noreferrer">
+    <img src=
+    "https://skillicons.dev/icons?i=django" />	
     </a>
     <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noopener noreferrer">
     <img src=
