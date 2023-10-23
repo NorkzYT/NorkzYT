@@ -55,28 +55,28 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 58.42400000000001%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">73%</span>
+                                <div class="bar" style="width: 55.36000000000001%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">69%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Assembly</span>
-                                <div class="bar" style="width: 6.303999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">YAML</span>
-                                <div class="bar" style="width: 3.84%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <div class="bar" style="width: 9.768%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">12%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Ezhil</span>
-                                <div class="bar" style="width: 3.448%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.343999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">YAML</span>
+                                <div class="bar" style="width: 3.2159999999999993%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Bash</span>
-                                <div class="bar" style="width: 1.928%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">2%</span>
+                                <div class="bar" style="width: 2.2640000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
                             </div>
                         </div>
                     </section>
@@ -143,7 +143,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="55.07666666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="55.38666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -162,10 +162,10 @@
                                     <span class="prefix">Master</span>
                                     stargazer
                                     <div class="value-wrapper">
-                                        <div class="value">1533</div>
+                                        <div class="value">1536</div>
                                     </div>
                                 </div>
-                                <div class="text">Starred 1533 repositories</div>
+                                <div class="text">Starred 1536 repositories</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -256,7 +256,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="83.22895277207392 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="83.44113620807666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -615,7 +615,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.34m out of 75.9m repositories</span>
+                                    <span class="gh">ranked 3.34m out of 80.3m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2</div>
                                     </div>
@@ -656,7 +656,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.55m out of 75.9m repositories</span>
+                                    <span class="gh">ranked 2.56m out of 80.3m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">6</div>
                                     </div>
