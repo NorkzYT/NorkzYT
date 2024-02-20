@@ -33,7 +33,7 @@
 
 <img width="100%" height="30" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg"> 
 
-<a href="https://app.daily.dev/Norkz"><img src="https://github.com/NorkzYT/NorkzYT/blob/main/devcard.svg" width="300" alt="Richard Lora's Dev Card"/></a>
+<a href="https://app.daily.dev/norkz"><img src="https://github.com/NorkzYT/NorkzYT/blob/main/devcard.svg" width="356" alt="Richard Lora's Dev Card"/></a>
 
 <details>
   <summary>Click here to see my Wakatime stats</summary>
