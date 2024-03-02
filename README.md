@@ -141,7 +141,7 @@
     <img src=
     "https://skillicons.dev/icons?i=twitter" />
     </a>
-    <a href="https://www.linkedin.com/in/richard-lora-523589247" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.linkedin.com/in/richard-lora" target="_blank" rel="noopener noreferrer">
     <img src=
     "https://skillicons.dev/icons?i=linkedin" />
     </a>
