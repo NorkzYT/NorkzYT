@@ -18,29 +18,44 @@ jobs:
       # 3️⃣ Achievements & Fortune
       - name: Render Achievements & Fortune
         uses: lowlighter/metrics@v3.34
+        continue-on-error: true
         with:
           filename: achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           config_timezone: America/New_York
+
+          # ─── Commit settings ──────────────────────────────────────────────────
           output_action: commit
           committer_branch: metrics-renders
           committer_message: "chore: update metrics"
+
+          # ─── Achievements plugin ───────────────────────────────────────────────
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_threshold: X
+
+          # ─── skip the old “Projects (classic)” field ──────────────────────────
+          plugin_achievements_ignored: projects
+
+          # ─── Fortune plugin ───────────────────────────────────────────────────
           plugin_fortune: yes
 
-      # 3️⃣➕ WakaTime Stats
+      # 3️⃣➕ WakaTime Stats (right under Achievements)
       - name: Render WakaTime Stats
         uses: lowlighter/metrics@v3.34
         with:
           filename: wakatime.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          config_timezone: America/New_York
+
+          # ─── Commit settings ──────────────────────────────────────────────────
           output_action: commit
           committer_branch: metrics-renders
           committer_message: "chore: update metrics"
+
+          # ─── WakaTime plugin ──────────────────────────────────────────────────
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_sections: time, languages, languages-graphs, editors, os
@@ -64,15 +79,12 @@ jobs:
             stargazers,
             lines,
             traffic
-          output_action: commit
-          committer_branch: metrics-renders
-          committer_message: "chore: update metrics"
 
-          # ─── Calendar ───────────────────────────────────────────────────────
+          # ─── Calendar ─────────────────────────────────────────────────────────
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          # ─── Languages ─────────────────────────────────────────────────────
+          # ─── Languages ────────────────────────────────────────────────────────
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 8
@@ -81,21 +93,16 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: yes
 
-          # ─── Topics & Notable & Discussions ───────────────────────────────
+          # ─── Topics, Notable & Discussions ───────────────────────────────────
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
           plugin_notable: yes
           plugin_discussions: yes
 
-          # ─── Stargazers ───────────────────────────────────────────────────
+          # ─── Stargazers ───────────────────────────────────────────────────────
           plugin_stargazers: yes
           plugin_stargazers_days: 14
 
-          # ─── Lines of Code ─────────────────────────────────────────────────
-          plugin_lines: yes
-          plugin_lines_sections: history, repositories
-          plugin_lines_repositories_limit: 2
-
-          # ─── Traffic ───────────────────────────────────────────────────────
+          # ─── Traffic ──────────────────────────────────────────────────────────
           plugin_traffic: yes
