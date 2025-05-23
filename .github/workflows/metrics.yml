@@ -16,7 +16,7 @@ jobs:
     steps:
       # 3️⃣ Achievements & Fortune
       - name: Render Achievements & Fortune
-        uses: lowlighter/metrics@v3.31.0
+        uses: lowlighter/metrics@v3.34
         with:
           filename: achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -30,7 +30,7 @@ jobs:
 
       # 4️⃣ General overview (calendar, languages, notable, discussions, topics, stargazers, lines, traffic)
       - name: Render General Metrics
-        uses: lowlighter/metrics@v3.31.0
+        uses: lowlighter/metrics@v3.34
         with:
           filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
