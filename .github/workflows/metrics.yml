@@ -1,20 +1,34 @@
 # Licensed under The Unlicense
 # Feel free to reuse, edit and redistribute this workflow as you wish, no credits needed
-# See https://github.com/lowlighter/metrics for documentation about how to use metrics action
+# See https://github.com/lowlighter/metrics for documentation
 
 name: Metrics
 on:
-  # 🌏 Think about the planet! No need to update stats too frequently
-  schedule: [{ cron: "0 16 * * *" }]
-  # 💡 The following line lets you run workflow manually from the action tab!
+  # Update once a day at 24:00 UTC
+  schedule: [{cron: "0 0/24 * * *"}]
+  # Allow manual runs
   workflow_dispatch:
+
 jobs:
-  metrics:
+  render-metrics:
+    name: Render Metrics
     runs-on: ubuntu-latest
     steps:
-      - name: 🦑 Achievements
-        if: ${{ success() || failure() }}
-        uses: stalomeow/metrics@projects-v2
+      # 1️⃣ Checkout your repository so that the action can commit back to it
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      # 2️⃣ Configure Git (for output_action: commit)
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      # 3️⃣ Achievements & Fortune
+      - name: Render Achievements & Fortune
+        uses: lowlighter/metrics@v3.31.0
         with:
           filename: achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -25,31 +39,56 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_fortune: yes
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
 
-      - name: 🦑 General
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+      # 4️⃣ General overview (calendar, languages, notable, discussions, topics, stargazers, lines, traffic)
+      - name: Render General Metrics
+        uses: lowlighter/metrics@v3.31.0
         with:
           filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header
           base_indepth: yes
-          config_order: base.header, isocalendar, languages, notable, discussions, topics
+          config_order: |
+            base.header,
+            isocalendar,
+            languages,
+            notable,
+            discussions,
+            topics,
+            stargazers,
+            lines,
+            traffic
           output_action: commit
           committer_branch: metrics-renders
           committer_message: "chore: update metrics"
+
+          # ─── Calendar ───────────────────────────────────────────────────────
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # ─── Languages ─────────────────────────────────────────────────────
           plugin_languages: yes
           plugin_languages_ignored: tex, less, makefile, qmake, lex, cmake, gnuplot, scala, c, c++, ejs
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: yes
           plugin_languages_limit: 2
+
+          # ─── Topics & Notable & Discussions ───────────────────────────────
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
           plugin_notable: yes
           plugin_discussions: yes
+
+          # ─── Stargazers ───────────────────────────────────────────────────
+          plugin_stargazers: yes
+          plugin_stargazers_days: 14
+
+          # ─── Lines of Code ─────────────────────────────────────────────────
+          plugin_lines: yes
+          plugin_lines_sections: history, repositories
+          plugin_lines_repositories_limit: 2
+
+          # ─── Traffic ───────────────────────────────────────────────────────
+          plugin_traffic: yes
