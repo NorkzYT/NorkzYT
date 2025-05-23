@@ -17,7 +17,7 @@ jobs:
     steps:
       # 3️⃣ Achievements & Fortune
       - name: Render Achievements & Fortune
-        uses: stalomeow/metrics@projects-v2
+        uses: lowlighter/metrics@v3.34
         with:
           filename: achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -32,10 +32,6 @@ jobs:
           # ─── Achievements plugin ───────────────────────────────────────────────
           plugin_achievements: yes
           plugin_achievements_display: detailed
-          plugin_achievements_threshold: X
-
-          # ─── skip the old “Projects (classic)” field ──────────────────────────
-          plugin_achievements_ignored: projects
 
           # ─── Fortune plugin ───────────────────────────────────────────────────
           plugin_fortune: yes
