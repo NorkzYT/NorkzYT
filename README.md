@@ -29,7 +29,15 @@
 [<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/sponsors.svg">](https://github.com/sponsors/lowlighter)
 -->
 
-[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/NorkzYT/NorkzYT/metrics-renders/achievements.svg">](#)
+<!-- WakaTime (moved in from the very edge by 50px) -->
+<p style="text-align: right; margin-right: 50px;">
+  <img src="https://raw.githubusercontent.com/NorkzYT/NorkzYT/metrics-renders/wakatime.svg" alt="WakaTime Stats" width="390" />
+</p>
+<!-- Achievements -->
+<p align="left">
+  <img src="https://raw.githubusercontent.com/NorkzYT/NorkzYT/metrics-renders/achievements.svg" alt="Achievements" width="390" />
+</p>
+
 
 <img width="100%" height="30" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg"> 
 
