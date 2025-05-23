@@ -14,18 +14,6 @@ jobs:
     name: Render Metrics
     runs-on: ubuntu-latest
     steps:
-      # 1️⃣ Checkout your repository so that the action can commit back to it
-      - name: Checkout repository
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-
-      # 2️⃣ Configure Git (for output_action: commit)
-      - name: Configure Git
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
       # 3️⃣ Achievements & Fortune
       - name: Render Achievements & Fortune
         uses: lowlighter/metrics@v3.31.0
