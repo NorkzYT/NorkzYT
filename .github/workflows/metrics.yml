@@ -18,6 +18,8 @@ jobs:
       # 3️⃣ Achievements & Fortune
       - name: Render Achievements & Fortune
         uses: stalomeow/metrics@projects-v2
+        env:
+          DEBIAN_FRONTEND: noninteractive
         with:
           filename: achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
