@@ -3,63 +3,58 @@
 # See https://github.com/lowlighter/metrics for documentation
 
 name: Metrics
+
 on:
   # Update once a day at 00:00 UTC
   schedule:
     - cron: '0 0/24 * * *'
-  # Allow manual runs
   workflow_dispatch:
 
 jobs:
   render-metrics:
-    name: Render Metrics
     runs-on: ubuntu-latest
     steps:
-      # 3️⃣ Achievements & Fortune
-      - name: Render Achievements & Fortune
-        uses: stalomeow/metrics@projects-v2
-        env:
-          DEBIAN_FRONTEND: noninteractive
+      # 0️⃣ Checkout (so the action can commit)
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # 1️⃣ Fortune
+      - name: Render Fortune
+        uses: lowlighter/metrics@v3.36
         with:
           filename: achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           config_timezone: America/New_York
 
-          # ─── Commit settings ──────────────────────────────────────────────────
+          # only Fortune
+          plugin_fortune: yes
+
+          # commit back to your metrics-renders branch
           output_action: commit
           committer_branch: metrics-renders
           committer_message: "chore: update metrics"
 
-          # ─── Achievements plugin ───────────────────────────────────────────────
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-
-          # ─── Fortune plugin ───────────────────────────────────────────────────
-          plugin_fortune: yes
-
-      # 3️⃣➕ WakaTime Stats (right under Achievements)
+      # 2️⃣ WakaTime stats
       - name: Render WakaTime Stats
-        uses: lowlighter/metrics@v3.34
+        uses: lowlighter/metrics@v3.36
         with:
           filename: wakatime.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           config_timezone: America/New_York
 
-          # ─── Commit settings ──────────────────────────────────────────────────
-          output_action: commit
-          committer_branch: metrics-renders
-          committer_message: "chore: update metrics"
-
-          # ─── WakaTime plugin ──────────────────────────────────────────────────
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_sections: time, languages, languages-graphs, editors, os
 
-      # 4️⃣ General overview (calendar, languages, notable, discussions, topics, stargazers, lines, traffic)
+          output_action: commit
+          committer_branch: metrics-renders
+          committer_message: "chore: update metrics"
+
+      # 3️⃣ General overview (calendar, languages, notable, discussions, topics, stargazers, traffic)
       - name: Render General Metrics
-        uses: lowlighter/metrics@v3.34
+        uses: lowlighter/metrics@v3.36
         with:
           filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -76,11 +71,11 @@ jobs:
             stargazers,
             traffic
 
-          # ─── Calendar ─────────────────────────────────────────────────────────
+          # ─── Calendar ─────────────────────────────────────────────────────
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          # ─── Languages ────────────────────────────────────────────────────────
+          # ─── Languages ───────────────────────────────────────────────────
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 8
@@ -89,16 +84,21 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: yes
 
-          # ─── Topics, Notable & Discussions ───────────────────────────────────
+          # ─── Topics & Notable & Discussions ──────────────────────────────
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
           plugin_notable: yes
           plugin_discussions: yes
 
-          # ─── Stargazers ───────────────────────────────────────────────────────
+          # ─── Stargazers ─────────────────────────────────────────────────
           plugin_stargazers: yes
           plugin_stargazers_days: 14
 
-          # ─── Traffic ──────────────────────────────────────────────────────────
+          # ─── Traffic ────────────────────────────────────────────────────
           plugin_traffic: yes
+
+          output_action: commit
+          committer_branch: metrics-renders
+          committer_message: "chore: update metrics"
+          
