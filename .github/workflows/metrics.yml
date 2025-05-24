@@ -17,7 +17,7 @@ jobs:
     steps:
       # 3️⃣ Achievements & Fortune
       - name: Render Achievements & Fortune
-        uses: lowlighter/metrics@v3.34
+        uses: stalomeow/metrics@projects-v2
         with:
           filename: achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
