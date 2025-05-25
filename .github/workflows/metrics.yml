@@ -17,14 +17,11 @@ jobs:
     steps:
       # 3️⃣ Achievements & Fortune
       - name: Render Achievements & Fortune
-        uses: stalomeow/metrics@projects-v2
-        env:
-          DEBIAN_FRONTEND: noninteractive
+        uses: lowlighter/metrics@v3.34
         with:
           filename: achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
-
-
+          # ─── Base settings ──────────────────────────────────────────────────
           base: ""
           config_timezone: America/New_York
           template: classic
@@ -34,10 +31,13 @@ jobs:
           committer_branch: metrics-renders
           committer_message: "chore: update metrics"
 
-          # ─── Achievements plugin ───────────────────────────────────────────────
-          plugin_achievements: yes
-          plugin_achievements_limit: 8
-          plugin_achievements_display: detailed
+          # ─── Gists plugin ───────────────────────────────────────────────────────
+          plugin_gists: yes
+
+          # ─── Star lists plugin ────────────────────────────────────────────────
+          plugin_starlists: yes                     # enable star lists
+          plugin_starlists_limit: 3                 # how many lists to display (default: 2)
+          plugin_starlists_limit_repositories: 6    # repos per list (default: 2)
 
           # ─── Fortune plugin ───────────────────────────────────────────────────
           plugin_fortune: yes
