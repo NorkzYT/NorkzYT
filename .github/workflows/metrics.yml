@@ -34,10 +34,9 @@ jobs:
           # ─── Gists plugin ───────────────────────────────────────────────────────
           plugin_gists: yes
 
-          # ─── Star lists plugin ────────────────────────────────────────────────
-          plugin_starlists: yes                     # enable star lists
-          plugin_starlists_limit: 3                 # how many lists to display (default: 2)
-          plugin_starlists_limit_repositories: 6    # repos per list (default: 2)
+          # ─── Recent Starred Repositories plugin ────────────────────────────────────────────────
+          plugin_stars: yes
+          plugin_stars_limit: 6
 
           # ─── Fortune plugin ───────────────────────────────────────────────────
           plugin_fortune: yes
@@ -79,6 +78,12 @@ jobs:
             topics,
             stargazers,
             traffic
+
+
+          # ─── Commit settings ──────────────────────────────────────────────────
+          output_action: commit
+          committer_branch: metrics-renders
+          committer_message: "chore: update metrics"
 
           # ─── Calendar ─────────────────────────────────────────────────────────
           plugin_isocalendar: yes
