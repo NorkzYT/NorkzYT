@@ -110,7 +110,7 @@
     <a href="https://cloudflare.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare" /></a>
     <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=aws" /></a>
     <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=firebase" /></a>
-    <a href="https://gcp.cloud.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=gcp" /></a>
+    <a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=gcp" /></a>
     <br>
     <!-- Testing & Monitoring -->
     <a href="https://www.cypress.io/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=cypress" /></a>
@@ -131,18 +131,18 @@
     <a href="https://ubuntu.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu" /></a>
     <a href="https://linuxmint.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=mint" /></a>
     <a href="https://www.kali.org/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=kali" /></a>
-    <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=windows" /></a>
+    <a href="https://www.microsoft.com/windows" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=windows" /></a>
     <a href="https://www.raspberrypi.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=raspberrypi" /></a>
     <a href="https://www.ansible.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=ansible" /></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=bash" /></a>
-    <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=powershell" /></a>
+    <a href="https://learn.microsoft.com/powershell/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=powershell" /></a>
     <br>
     <!-- Creative Tools -->
     <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=figma" /></a>
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=ps" /></a>
     <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=ae" /></a>
     <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=pr" /></a>
-    <a href="https://www.adobe.com/products/illustrator.html#modal-hash" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=ai" /></a>
+    <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=ai" /></a>
     <a href="https://www.blender.org/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=blender" /></a>
     <br>
     <!-- Additional Tools & Technologies -->
@@ -155,7 +155,7 @@
     <a href="https://discord.js.org/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=discordjs" /></a>
     <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow" /></a>
     <a href="https://www.anaconda.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda" /></a>
-    <a href="https://rabbitmq-website.pages.dev/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=rabbitmq" /></a>
+    <a href="https://rabbitmq.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=rabbitmq" /></a>
     <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=postman" /></a>
     <a href="https://www.nginx.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=nginx" /></a>
     <a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=elasticsearch" /></a>
@@ -172,36 +172,128 @@
     <a href="https://dev.to/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=devto" /></a>
     <a href="https://vscodium.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=vscodium" /></a>
     <br>
+    <!-- Extended Frontend & UI Frameworks -->
+    <a href="https://www.chartjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=chartjs" /></a>
+    <a href="https://www.electronjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=electron" /></a>
+    <a href="https://daisyui.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=daisyui" /></a>
+    <a href="https://expo.dev/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=expo" /></a>
+    <a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=flutter" /></a>
+    <a href="https://www.gatsbyjs.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=gatsby" /></a>
+    <a href="https://react-bootstrap.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=reactbootstrap" /></a>
+    <a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative" /></a>
+    <a href="https://reactrouter.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=reactrouter" /></a>
+    <a href="https://svelte.dev/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=svelte" /></a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss" /></a>
+    <a href="https://threejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=threejs" /></a>
+    <a href="https://vitejs.dev/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=vite" /></a>
+    <a href="https://vitest.dev/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=vitest" /></a>
+    <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=vuejs" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=pwa" /></a>
+    <a href="https://ui.shadcn.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" /></a>
+    <a href="https://storybook.js.org/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=storybook" /></a>
+    <br>
+    <!-- Extended Backend & APIs -->
+    <a href="https://actix.rs/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=actix" /></a>
+    <a href="https://en.wikipedia.org/wiki/API" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=api" /></a>
+    <a href="https://www.apollographql.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=apollo" /></a>
+    <a href="https://hono.dev/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=hono" /></a>
+    <a href="https://trpc.io/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=trpc" /></a>
+    <a href="https://playwright.dev/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=playwright" /></a>
+    <a href="https://orm.drizzle.team/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=drizzle" /></a>
+    <a href="https://caddyserver.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=caddy" /></a>
+    <a href="https://www.consul.io/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=consul" /></a>
+    <a href="https://www.django-rest-framework.org/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=djangorestframework" /></a>
+    <br>
+    <!-- Extended Data, Databases & ML -->
+    <a href="https://clickhouse.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=clickhouse" /></a>
+    <a href="https://mariadb.org/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=mariadb" /></a>
+    <a href="https://www.metabase.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=metabase" /></a>
+    <a href="https://milvus.io/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=milvus" /></a>
+    <a href="https://neo4j.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=neo4j" /></a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql" /></a>
+    <a href="https://redis.io/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=redis" /></a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" /></a>
+    <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" /></a>
+    <a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" /></a>
+    <a href="https://scipy.org/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=scipy" /></a>
+    <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn" /></a>
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn" /></a>
+    <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch" /></a>
+    <a href="https://streamlit.io/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit" /></a>
+    <a href="https://huggingface.co/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" /></a>
+    <br>
+    <!-- Extended Cloud & DevOps -->
+    <a href="https://aws.amazon.com/elasticbeanstalk/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=elasticbeanstalk" /></a>
+    <a href="https://circleci.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=circleci" /></a>
+    <a href="https://aws.amazon.com/cloudwatch/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=cloudwatch" /></a>
+    <a href="https://aws.amazon.com/ec2/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=ec2" /></a>
+    <a href="https://www.rancher.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=rancher" /></a>
+    <a href="https://turbo.build/repo" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=turborepo" /></a>
+    <a href="https://www.vmware.com/products/workstation-pro.html" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=vmwareworkstation" /></a>
+    <a href="https://tailscale.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=tailscale" /></a>
+    <a href="https://www.proxmox.com/en/proxmox-virtual-environment" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=proxmox" /></a>
+    <a href="https://github.com/tmux/tmux" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=tmux" /></a>
+    <br>
+    <!-- Extended Languages & Testing -->
+    <a href="https://kotlinlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin" /></a>
+    <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=python" /></a>
+    <a href="https://docs.pytest.org/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=pytest" /></a>
+    <a href="https://sentry.io/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=sentry" /></a>
+    <a href="https://www.sonarqube.org/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=sonarqube" /></a>
+    <a href="https://testing-library.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=testinglibrary" /></a>
+    <br>
+    <!-- Extended IDEs & Editors -->
+    <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio" /></a>
+    <a href="https://www.jetbrains.com/appcode/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=appcode" /></a>
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=pycharm" /></a>
+    <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=phpstorm" /></a>
+    <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=webstorm" /></a>
+    <a href="https://developer.apple.com/xcode/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=xcode" /></a>
+    <br>
+    <!-- LLM, Auth, Security & Payments -->
+    <a href="https://authjs.dev/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=authjs" /></a>
+    <a href="https://github.com/better-auth/better-auth" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=betterauth" /></a>
+    <a href="https://jwt.io/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=jwt" /></a>
+    <a href="https://www.langchain.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" /></a>
+    <a href="https://www.llamaindex.ai/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=llamaindex" /></a>
+    <a href="https://ngrok.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=ngrok" /></a>
+    <a href="https://snyk.io/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=snyk" /></a>
+    <a href="https://stripe.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=stripe" /></a>
+    <br>
+    <!-- Tooling, Productivity & Misc -->
+    <a href="https://axios-http.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=axios" /></a>
+    <a href="https://www.canva.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=canva" /></a>
+    <a href="https://daily.dev/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=dailydev" /></a>
+    <a href="https://eslint.org/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=eslint" /></a>
+    <a href="https://prettier.io/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=prettier" /></a>
+    <a href="https://gitforwindows.org/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=gitbash" /></a>
+    <a href="https://www.gitkraken.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=gitkraken" /></a>
+    <a href="https://www.google.com/gmail/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" /></a>
+    <a href="https://outlook.live.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=outlook" /></a>
+    <a href="https://www.microsoft.com/microsoft-365/onedrive" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=onedrive" /></a>
+    <a href="https://www.markdownguide.org/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=markdown" /></a>
+    <a href="https://mermaid.js.org/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=mermaid" /></a>
+    <a href="https://miro.com/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=miro" /></a>
+    <a href="https://swagger.io/" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=swagger" /></a>
+    <a href="https://github.com/pmndrs/zustand" target="_blank" rel="noopener noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=zustand" /></a>
 </p>
 <br>
 
 <h2>Contact Options</h2>
 <p>
     <a href="https://www.discordapp.com/users/282100214024896522" target="_blank" rel="noopener noreferrer">
-    <img src=
-    "https://go-skill-icons.vercel.app/api/icons?i=discord" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=discord" />
     </a>
     <a href="mailto:richard@pcscorp.dev" target="_blank" rel="noopener noreferrer">
-    <img  width="55" height="43" src=
-    "https://imgur.com/tLzcLoU.png" />
+    <img  width="55" height="43" src="https://imgur.com/tLzcLoU.png" />
     </a>
     <a href="https://twitter.com/PolymathNorkz" target="_blank" rel="noopener noreferrer">
-    <img src=
-    "https://go-skill-icons.vercel.app/api/icons?i=twitter" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=twitter" />
     </a>
     <a href="https://www.linkedin.com/in/richard-lora" target="_blank" rel="noopener noreferrer">
-    <img src=
-    "https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
     </a>
 </p>
-
-<!--   GitHub stats graph -->
-<!-- <h2> 📈 GitHub Activity Graph:</h2> -->
-
-<!--  ![Norkz's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=NorkzYT&hide_border=true&theme=redical) -->
-
-
-
 
 #### Thanks for visiting :heart:
 
@@ -213,10 +305,3 @@ Would you like to meet me?
 If you want to contribute to any of my repositories, feel free to submit PRs, issues and discord/email me. Chat about proposals and ideas - make sure to describe the agenda.
 
 [<img align="right" alt="🦑" src="https://user-images.githubusercontent.com/22963968/119890439-1ff29f00-bf38-11eb-8515-d0a9c3c8a6b6.png">](#)
-
-<!-- Until that day: https://user-images.githubusercontent.com/22963968/159836902-a7553777-f1e2-49ed-90fc-9721322b3f44.png -->
-<!-- The betrayer: https://user-images.githubusercontent.com/22963968/155458995-e4c24fff-d667-48cd-a1ce-1f66cd233a14.png -->
-<!-- The world ender: https://user-images.githubusercontent.com/22963968/130322172-4e4996cd-eb3d-4013-9fc2-47e573413310.png -->
-<!-- Farewell Miura: https://user-images.githubusercontent.com/22963968/119890439-1ff29f00-bf38-11eb-8515-d0a9c3c8a6b6.png -->
-<!-- First steps with JavaScript: https://user-images.githubusercontent.com/22963968/114021347-e3c48b80-9870-11eb-8bc8-998bf39b4d0d.png -->
-
